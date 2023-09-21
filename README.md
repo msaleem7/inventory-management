@@ -6,7 +6,7 @@ This is a Ruby on Rails web application for inventory management.
 
 You'll want to configure your machine to run:
 
-* Ruby 2.7.1
+* Ruby 3.2.2
 * NodeJS 14.9.0
 * Postgres 12.4
 
